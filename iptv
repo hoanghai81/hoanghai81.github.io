@@ -1,3 +1,10 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml" 03112024
 
+#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png" group-title="Địa phương",ATV1 _ AN GIANG
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png" group-title="Địa phương",ATV2 _ AN GIANG
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png" group-title="Địa phương",ATV3 _ AN GIANG
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
