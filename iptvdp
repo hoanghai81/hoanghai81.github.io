@@ -9,6 +9,12 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTINF:671 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",ATV3 _ TH AN GIANG
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",H1 _ TH HÀ NỘI
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",H2 _ TH HÀ NỘI
+https://cecex9g5cpliv.vcdn.cloud/events/HN2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",BHTTV _ TH HÀ TĨNH
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
