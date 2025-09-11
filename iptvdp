@@ -1,12 +1,15 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml" 03112024
 
-#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="nlg" group-title="Địa phương",ATV1 _ AN GIANG
+#EXTINF:671 tvg-id="nid" tvg-name="An_Giang_1" tvg-logo="nlg" group-title="Địa phương",ATV1 _ TH AN GIANG
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="nlg" group-title="Địa phương",ATV2 _ AN GIANG
+#EXTINF:671 tvg-id="nid" tvg-name="An_Giang_1" tvg-logo="nlg" group-title="Địa phương",ATV2 _ TH AN GIANG
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 
-#EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="nlg" group-title="Địa phương",ATV3 _ AN GIANG
+#EXTINF:671 tvg-id="nid" tvg-name="An_Giang_1" tvg-logo="nlg" group-title="Địa phương",ATV3 _ TH AN GIANG
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:671 tvg-id="nid" tvg-name="An_Giang_1" tvg-logo="nlg" group-title="Địa phương",QTTV _ TH QUẢNG TRỊ
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
 #EXTINF:671 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",STV _ TH SƠN LA
