@@ -12,6 +12,9 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:671 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",QTV1 _ TH QUẢNG NINH
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 
+#EXTINF:671 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",QTV3 _ TH QUẢNG NINH
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+
 #EXTINF:671 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",QTTV _ TH QUẢNG TRỊ
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 
