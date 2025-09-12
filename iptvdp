@@ -9,6 +9,9 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTINF:671 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",ATV3 _ TH AN GIANG
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",CTV _ TH CÀ MAU
+https://tv.thbl.vn/live/tv/tv.m3u8
+
 #EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",CRTV _ TH CAO BẰNG
 https://stream.thingnet.vn/live/smil:CRTV.smil/playlist.m3u8
 
