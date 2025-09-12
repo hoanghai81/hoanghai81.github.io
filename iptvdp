@@ -5,7 +5,7 @@ https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #EXTINF:-1 tvg-id="nid" tvg-name="antv" tvg-logo="nlg" group-title="THIẾT YẾU",ANTV
-https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
+https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="nid" tvg-name="qpvn" tvg-logo="nlg" group-title="THIẾT YẾU",QPVN
 https://qpvn.vn/live/qpvn/index.m3u8
