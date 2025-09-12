@@ -132,3 +132,6 @@ https://cdn-traffic.sohatv.vn/live/pull/Y5Kan2X7I7GHo4VN/thth-live/eVc6tyHuFZLQY
 
 #EXTINF:671 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",TTV _ TH TUYÊN QUANG
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
+
+#EXTINF:671 tvg-id="nid" tvg-name="vinhlong1" tvg-logo="nlg" group-title="Địa phương",THVL1 _ TH VĨNH LONG
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
