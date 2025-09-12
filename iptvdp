@@ -12,6 +12,12 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",CANTHO1 _ TH CẦN THƠ
 https://live.canthotv.vn/live/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",CANTHO2 _ TH CẦN THƠ
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/index.m3u8
+
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",CANTHO3 _ TH CẦN THƠ
+https://pa.thst.vn/liveeventstv2.m3u8
+
 #EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",ĐNRT1 _ TH ĐÀ NẴNG
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 
