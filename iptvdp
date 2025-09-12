@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="nid" tvg-name="vtv1" tvg-logo="nlg" group-title="VTV",VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="nid" tvg-name="vtv2" tvg-logo="nlg" group-title="VTV",VTV2
+https://vtvgolive-ssaimh.vtvdigital.vn/uY8SzqlYki_N3k7PvviFsQ/1757702266/manifest/vtv2/master.m3u8
+
 
 #EXTINF:-1 tvg-id="nid" tvg-name="antv" tvg-logo="nlg" group-title="THIẾT YẾU",ANTV
 https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8
