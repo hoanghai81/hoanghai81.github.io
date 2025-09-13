@@ -14,6 +14,9 @@ https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8
 https://qpvn.vn/live/qpvn/index.m3u8
 
 
+#EXTINF:-1 tvg-id="nid" tvg-name="sctv3" tvg-logo="nlg" group-title="SCTV",SCTV3
+https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
+
 #EXTINF:-1 tvg-id="nid" tvg-name="sctv4" tvg-logo="nlg" group-title="SCTV",SCTV4
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
 
