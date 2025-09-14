@@ -87,6 +87,9 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",THP _ TH HẢI PHÒNG
 https://1253562137.e.cdneverest.net/wydOJzM-JyGBz86bXLPIeQ/1757676211/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",THP+ _ TH HẢI PHÒNG
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="nlg" group-title="Địa phương",HYTV _ TH HƯNG YÊN
 https://1253218859.e.cdneverest.net/YYVTlXRAP-pD6DkCDNByzQ/1757675643/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 
