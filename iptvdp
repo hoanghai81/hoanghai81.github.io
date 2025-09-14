@@ -1,5 +1,24 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml" 03112024
 
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="https://i.ibb.co/mvkBF9C/logo-big.png" group-title="Trực tiếp",SKY SPORT FOOTBALL UK  HD
+http://192.168.2.5:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="https://i.ibb.co/mvkBF9C/logo-big.png" group-title="Trực tiếp",SKY SPORT M.E UK  HD
+http://192.168.2.5:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="https://i.ibb.co/mvkBF9C/logo-big.png" group-title="Trực tiếp",SKY SPORT P.L UK  HD
+http://192.168.2.5:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="https://i.ibb.co/mvkBF9C/logo-big.png" group-title="Trực tiếp",SKY SPORT F1 DE  HD
+http://192.168.2.5:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="https://i.ibb.co/mvkBF9C/logo-big.png" group-title="Trực tiếp",BT SPORT 3  HD
+http://192.168.2.5:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-id="nid" tvg-name="nn" tvg-logo="https://i.ibb.co/mvkBF9C/logo-big.png" group-title="Trực tiếp",ELEVEN SPORT 1 PT  HD
+http://192.168.2.5:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+
+
 #EXTINF:-1 tvg-id="nid" tvg-name="vtv1" tvg-logo="nlg" group-title="VTV",VTV1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
